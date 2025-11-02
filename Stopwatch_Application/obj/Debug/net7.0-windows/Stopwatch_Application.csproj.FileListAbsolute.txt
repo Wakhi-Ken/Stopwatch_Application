@@ -1,0 +1,46 @@
+c:\Users\awini\Stopwatch_Application\bin\Debug\net7.0-windows\Stopwatch_Application.exe
+c:\Users\awini\Stopwatch_Application\bin\Debug\net7.0-windows\Stopwatch_Application.deps.json
+c:\Users\awini\Stopwatch_Application\bin\Debug\net7.0-windows\Stopwatch_Application.runtimeconfig.json
+c:\Users\awini\Stopwatch_Application\bin\Debug\net7.0-windows\Stopwatch_Application.dll
+c:\Users\awini\Stopwatch_Application\bin\Debug\net7.0-windows\Stopwatch_Application.pdb
+c:\Users\awini\Stopwatch_Application\obj\Debug\net7.0-windows\Stopwatch_Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\awini\Stopwatch_Application\obj\Debug\net7.0-windows\Stopwatch_Application.AssemblyInfoInputs.cache
+c:\Users\awini\Stopwatch_Application\obj\Debug\net7.0-windows\Stopwatch_Application.AssemblyInfo.cs
+c:\Users\awini\Stopwatch_Application\obj\Debug\net7.0-windows\Stopwatch_Application.csproj.CoreCompileInputs.cache
+c:\Users\awini\Stopwatch_Application\obj\Debug\net7.0-windows\Stopwatch_Application.sourcelink.json
+c:\Users\awini\Stopwatch_Application\obj\Debug\net7.0-windows\Stopwatch_Application.dll
+c:\Users\awini\Stopwatch_Application\obj\Debug\net7.0-windows\refint\Stopwatch_Application.dll
+c:\Users\awini\Stopwatch_Application\obj\Debug\net7.0-windows\Stopwatch_Application.pdb
+c:\Users\awini\Stopwatch_Application\obj\Debug\net7.0-windows\Stopwatch_Application.genruntimeconfig.cache
+c:\Users\awini\Stopwatch_Application\obj\Debug\net7.0-windows\ref\Stopwatch_Application.dll
+C:\Users\awini\Stopwatch_Application\bin\Debug\net7.0-windows\Stopwatch_Application.xml
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\bin\Debug\net7.0-windows\Stopwatch_Application.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\bin\Debug\net7.0-windows\Stopwatch_Application.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\bin\Debug\net7.0-windows\Stopwatch_Application.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\bin\Debug\net7.0-windows\Stopwatch_Application.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\bin\Debug\net7.0-windows\Stopwatch_Application.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\bin\Debug\net7.0-windows\Stopwatch_Application.xml
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\obj\Debug\net7.0-windows\Stopwatch_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\obj\Debug\net7.0-windows\Stopwatch_Application.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\obj\Debug\net7.0-windows\Stopwatch_Application.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\obj\Debug\net7.0-windows\Stopwatch_Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\obj\Debug\net7.0-windows\Stopwatch_Application.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\obj\Debug\net7.0-windows\refint\Stopwatch_Application.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\obj\Debug\net7.0-windows\Stopwatch_Application.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\obj\Debug\net7.0-windows\Stopwatch_Application.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\obj\Debug\net7.0-windows\ref\Stopwatch_Application.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\Stopwatch_Application\bin\Debug\net7.0-windows\Stopwatch_Application.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\Stopwatch_Application\bin\Debug\net7.0-windows\Stopwatch_Application.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\Stopwatch_Application\bin\Debug\net7.0-windows\Stopwatch_Application.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\Stopwatch_Application\bin\Debug\net7.0-windows\Stopwatch_Application.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\Stopwatch_Application\bin\Debug\net7.0-windows\Stopwatch_Application.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\Stopwatch_Application\bin\Debug\net7.0-windows\Stopwatch_Application.xml
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\Stopwatch_Application\obj\Debug\net7.0-windows\Stopwatch_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\Stopwatch_Application\obj\Debug\net7.0-windows\Stopwatch_Application.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\Stopwatch_Application\obj\Debug\net7.0-windows\Stopwatch_Application.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\Stopwatch_Application\obj\Debug\net7.0-windows\Stopwatch_Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\Stopwatch_Application\obj\Debug\net7.0-windows\Stopwatch_Application.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\Stopwatch_Application\obj\Debug\net7.0-windows\refint\Stopwatch_Application.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\Stopwatch_Application\obj\Debug\net7.0-windows\Stopwatch_Application.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\Stopwatch_Application\obj\Debug\net7.0-windows\Stopwatch_Application.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\C#\Stopwatch_Application\Stopwatch_Application\obj\Debug\net7.0-windows\ref\Stopwatch_Application.dll

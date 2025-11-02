@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Stopwatch_Application</name>
+    </assembly>
+    <members>
+        <member name="M:Stopwatch_Application.Form1.#ctor">
+            <summary>
+            Initialize the main form and its components
+            </summary>
+        </member>
+        <member name="M:Stopwatch_Application.Form1.Timer_Tick(System.Object,System.EventArgs)">
+            <summary>
+            Timer tick event handler - updates the time display
+            </summary>
+        </member>
+        <member name="M:Stopwatch_Application.Form1.UpdateDisplay">
+            <summary>
+            Updates the time display label with current time
+            </summary>
+        </member>
+        <member name="M:Stopwatch_Application.Form1.StartButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            Starts the stopwatch from 00:00:00
+            </summary>
+        </member>
+        <member name="M:Stopwatch_Application.Form1.PauseButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            Pauses the stopwatch and displays current time
+            </summary>
+        </member>
+        <member name="M:Stopwatch_Application.Form1.ResumeButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            Resumes the stopwatch from the last paused time
+            </summary>
+        </member>
+        <member name="M:Stopwatch_Application.Form1.ResetButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            Resets the stopwatch back to 00:00:00
+            </summary>
+        </member>
+        <member name="M:Stopwatch_Application.Form1.StopButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            Stops the stopwatch completely and displays the final time
+            </summary>
+        </member>
+        <member name="M:Stopwatch_Application.Form1.EnableButtons(System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean)">
+            <summary>
+            Enables or disables buttons based on current state
+            </summary>
+        </member>
+        <member name="F:Stopwatch_Application.Form1.components">
+            <summary>
+             Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Stopwatch_Application.Form1.Dispose(System.Boolean)">
+            <summary>
+             Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Stopwatch_Application.Form1.InitializeComponent">
+            <summary>
+             Required method for Designer support - do not modify
+             the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Stopwatch_Application.Program.Main">
+            <summary>
+             The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:Stopwatch_Application.StopwatchLogic">
+            <summary>
+            Represents the stopwatch logic independent of UI, for testing.
+            </summary>
+        </member>
+        <member name="M:Stopwatch_Application.StopwatchLogic.Start">
+            <summary>
+            Starts or restarts the stopwatch from 00:00:00.
+            </summary>
+        </member>
+        <member name="M:Stopwatch_Application.StopwatchLogic.Pause">
+            <summary>
+            Pauses the stopwatch.
+            </summary>
+        </member>
+        <member name="M:Stopwatch_Application.StopwatchLogic.Resume">
+            <summary>
+            Resumes the stopwatch.
+            </summary>
+        </member>
+        <member name="M:Stopwatch_Application.StopwatchLogic.Stop">
+            <summary>
+            Stops the stopwatch completely.
+            </summary>
+        </member>
+        <member name="M:Stopwatch_Application.StopwatchLogic.Reset">
+            <summary>
+            Resets the stopwatch back to 00:00:00.
+            </summary>
+        </member>
+        <member name="M:Stopwatch_Application.StopwatchLogic.Tick">
+            <summary>
+            Simulates one timer tick (1 second).
+            </summary>
+        </member>
+        <member name="M:Stopwatch_Application.StopwatchLogic.GetFormattedTime">
+            <summary>
+            Returns formatted time 00:00:00.
+            </summary>
+        </member>
+        <member name="T:ApplicationConfiguration">
+            <summary>
+             Bootstrap the application configuration.
+            </summary>
+        </member>
+        <member name="M:ApplicationConfiguration.Initialize">
+            <summary>
+             Bootstrap the application as follows:
+             <code>
+             global::System.Windows.Forms.Application.EnableVisualStyles();
+             global::System.Windows.Forms.Application.SetCompatibleTextRenderingDefault(false);
+             global::System.Windows.Forms.Application.SetHighDpiMode(HighDpiMode.SystemAware);
+            </code>
+            </summary>
+        </member>
+    </members>
+</doc>
