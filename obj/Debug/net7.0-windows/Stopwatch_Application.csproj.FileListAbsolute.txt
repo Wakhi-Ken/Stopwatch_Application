@@ -13,3 +13,4 @@ c:\Users\awini\Stopwatch_Application\obj\Debug\net7.0-windows\refint\Stopwatch_A
 c:\Users\awini\Stopwatch_Application\obj\Debug\net7.0-windows\Stopwatch_Application.pdb
 c:\Users\awini\Stopwatch_Application\obj\Debug\net7.0-windows\Stopwatch_Application.genruntimeconfig.cache
 c:\Users\awini\Stopwatch_Application\obj\Debug\net7.0-windows\ref\Stopwatch_Application.dll
+C:\Users\awini\Stopwatch_Application\bin\Debug\net7.0-windows\Stopwatch_Application.xml
