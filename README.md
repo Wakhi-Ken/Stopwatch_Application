@@ -26,7 +26,9 @@ Using Visual Studio:
 2. Open `Stopwatch_Application.sln` in Visual Studio.
 3. Build the solution (Build > Build Solution).
 4. Run the project (F5 or Debug > Start Debugging) and in terminal type **dotnet run** cd in Stopwatch_Application/Stopwatch_Application
-5. Run the test in root folder by typing **dotnet test** which is Stopwatch_Application
+5. Run the test in root folderi which Stopwatch_Application by typing **dotnet test** 
+
+## 
 Using the command line (PowerShell):
 
 ```powershell
