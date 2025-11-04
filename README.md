@@ -1,6 +1,6 @@
 # Stopwatch_Application
 
-A simple Windows Forms Stopwatch application written in C# (.NET 7). This project implements a stopwatch with Start, Pause, Resume, Reset, and Stop functionality and displays elapsed time in the format 00:00:00 (hh:mm:ss).
+A simple Windows Forms Stopwatch application written in C# (.NET 7) built while using Test Driven Development. This project implements a stopwatch with Start, Pause, Resume, Reset, and Stop functionality and displays elapsed time in the format 00:00:00 (hh:mm:ss).
 
 ## Features
 
