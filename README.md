@@ -1,4 +1,6 @@
 # Stopwatch_Application
+<img width="403" height="337" alt="image" src="https://github.com/user-attachments/assets/8e2de3e6-5d45-4ac0-b159-7c9f205039f0" />
+
 
 A simple Windows Forms Stopwatch application written in C# (.NET 7) built while using Test Driven Development. This project implements a stopwatch with Start, Pause, Resume, Reset, and Stop functionality and displays elapsed time in the format 00:00:00 (hh:mm:ss).
 
@@ -16,14 +18,15 @@ A simple Windows Forms Stopwatch application written in C# (.NET 7) built while 
 - Windows OS (this project uses Windows Forms)
 - Visual Studio 2022+ recommended for designer support (or Visual Studio Code + C# extensions)
 
-## How to run
+## How to run application and tests
 
 Using Visual Studio:
 
-1. Open `Stopwatch_Application.sln` in Visual Studio.
-2. Build the solution (Build > Build Solution).
-3. Run the project (F5 or Debug > Start Debugging).
-
+1. First clone repo : git@github.com:Wakhi-Ken/Stopwatch_Application.git
+2. Open `Stopwatch_Application.sln` in Visual Studio.
+3. Build the solution (Build > Build Solution).
+4. Run the project (F5 or Debug > Start Debugging) and in terminal type **dotnet run ** cd in Stopwatch_Application/Stopwatch_Application
+5. Run the test in root folder by typing **dotnet test** which is Stopwatch_Application
 Using the command line (PowerShell):
 
 ```powershell
