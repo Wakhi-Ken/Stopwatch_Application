@@ -22,10 +22,10 @@ A simple Windows Forms Stopwatch application written in C# (.NET 7) built while 
 
 Using Visual Studio:
 
-1. First clone repo : git@github.com:Wakhi-Ken/Stopwatch_Application.git
+1. First clone repo : [Shh](git@github.com:Wakhi-Ken/Stopwatch_Application.git)
 2. Open `Stopwatch_Application.sln` in Visual Studio.
 3. Build the solution (Build > Build Solution).
-4. Run the project (F5 or Debug > Start Debugging) and in terminal type **dotnet run ** cd in Stopwatch_Application/Stopwatch_Application
+4. Run the project (F5 or Debug > Start Debugging) and in terminal type **dotnet run** cd in Stopwatch_Application/Stopwatch_Application
 5. Run the test in root folder by typing **dotnet test** which is Stopwatch_Application
 Using the command line (PowerShell):
 
